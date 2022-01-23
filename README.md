@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AADH2002
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning computer engineering in AUT of Iran and currently a freshman at university.
-- 💞️ I’m looking to collaborate on documents about games ofcourse becuase its great to make smt which cheers kid all around the globe
+- 💞️ I’m looking to collaborate on documents about games ofcourse becuase its great to make sth which cheers kid all around the globe
 - 📫 How to reach me: you can pm me hear and i will give email or tele
 
 <!---
